@@ -1,0 +1,30 @@
+name= "naseem"
+age= 22
+price= 12.2
+
+# we can  print one line 
+print(name,age,price)   
+print(type(name))
+print(type(age))
+print(type(price))
+
+# string we can acces one colon and double colon 'naseem', "naseem" 
+name1= "naseem"
+print("my name is ",name1)
+print(type(name1))
+
+a=20
+b=30
+sum=a+b, a-b, a*b  
+print("sum of two number is ",sum)
+
+
+# commen use in python  # use or multiline comment """
+"""naseem
+choudhary
+"""
+
+
+
+
+
