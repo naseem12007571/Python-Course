@@ -1,0 +1,23 @@
+# name= input("Enter your name ")
+# print("your name is ",name)
+#  input always string so we will use data type like int char float 
+
+# var = int (input("Enter the age "))
+# print(type(var),var)
+
+
+name= input("enter name")
+age= int (input("enter age"))
+marks= float (input("enter marks"))
+name2= input ("Enter the name ")
+
+
+print("name is",name)
+print("age is ",age)
+print("makrs is ",marks)
+
+print("name2 is = ",name2)
+
+
+
+
